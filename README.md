@@ -1,4 +1,4 @@
-# nuestra-comunidad
+# Nuestra comunidad
 
  <img src="DukijoteDeLaMancha.JPG" alt="" width="302" height="303" />
 
