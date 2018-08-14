@@ -8,45 +8,45 @@ Esta comunidad esta programando Hack days cada 2 meses, en donde los interesados
 
 Los siguientes son los grupos de usuarios de Java que hacen parte de la comunidad
 
-- Barcelona
+- Barcelona [(@BarcelonaJUG)](https://twitter.com/BarcelonaJUG):
  <img src="images/bcnjug.png" alt="" width="250" height="251" />
 
-- Barranquilla
+- Barranquilla [(@JUGBAQ)](https://twitter.com/JUGBAQ):
 <img src="images/barranquillajug.jpg" alt="" width="250" height="251" />
 
-- Cali
+- Cali [(@CLOJUG)](https://twitter.com/CLOJUG):
 <img src="images/caliJug.jpg" alt="" width="250" height="251" />
 
-- Chile
+- Chile [(@jug_chile)](https://twitter.com/jug_chile):
 <img src="images/chilejug.jpg" alt="" width="250" height="251" />
 
-- Coruña
+- Coruña [(@CorunaJUG)](https://twitter.com/CorunaJUG):
 <img src="images/coruñajug.png" alt="" width="250" height="251" />
 
-- Ecuador
+- Ecuador [(@EcuadorJUG)](https://twitter.com/EcuadorJUG):
 <img src="images/ecuadorjug.jpg" alt="" width="250" height="251" />
 
-- Guatemala
+- Guatemala [(@guatejug)](https://twitter.com/guatejug):
 <img src="images/guatemalajug.png" alt="" width="250" height="251" />
 
-- Madrid
+- Madrid [(@MadridJUG)](https://twitter.com/MadridJUG):
 <img src="images/madridjug.png" alt="" width="250" height="251" />
 
-- Málaga
+- Málaga [(@MalagaJUG)](https://twitter.com/MalagaJUG):
 <img src="images/malagajug.png" alt="" width="250" height="251" />
 
-- Medellin
+- Medellin [(@MedellinJug)](https://twitter.com/MedellinJug):
 <img src="images/medellinjug.jpg" alt="" width="270" height="251" />
 
-- Nicaragua
+- Nicaragua [(@jug_nicaragua)](https://twitter.com/jug_nicaragua):
 <img src="images/nicaraguajug.jpg" alt="" width="270" height="251" />
 
-- Perú
+- Perú [(@perujug)](https://twitter.com/perujug):
 <img src="images/perujug.jpg" alt="" width="270" height="251" />
 
 - Panama
 
-- Vigo
+- Vigo [(@VigoJUG)](https://twitter.com/VigoJUG):
 <img src="images/vigojug.jpg" alt="" width="270" height="251" />
 
 
