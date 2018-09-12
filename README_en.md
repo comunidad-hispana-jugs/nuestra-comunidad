@@ -6,9 +6,10 @@
  <img src="images/DukijoteDeLaMancha.jpg" alt="" width="302" height="303" />
 
 
-La Comunidad Hispana de grupos de usuarios de Java (JUG) inicio en el año 2017 para compartir conocimiento sobre Java y tecnologias relacionadas entre JUGs donde su idioma principal es el Español, mas de 12 grupos de España y Latinoamerica hacen parte de esta comunidad.
+The Java Users Groups' Hispanic Community was created to share Java and new technologies knowledge between Spanish-speaking JUGs, it started since 2017 after a Hack Day for Java 9, more than 12 JUGs from Spain and Latin America are part of this community. 
 
-Esta comunidad desarrolla Hack days cada 2 meses, quienes desean participar pueden hacerlo yendo a la reunión que organiza el JUG de su ciudad o seguir el evento via YouTube y el canal de Slack.
+The sessions are spreading through HangOuts on air and Youtube, attendees can join each session by going to their local JUG meeting or online through youtube, they can also use a slack channel: comunidad-jugs.slack.com
+
 
 These Java Users Groups are part of this community:
 
