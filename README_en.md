@@ -1,6 +1,8 @@
 
 # Our community
 
+ [**Clic aqui para ir a la versión en Español**](README.md)
+ 
  <img src="images/DukijoteDeLaMancha.jpg" alt="" width="302" height="303" />
 
 La Comunidad Hispana de grupos de usuarios de Java (JUG) inicio en el año 2017 para compartir conocimiento sobre Java y tecnologias relacionadas entre JUGs donde su idioma principal es el Español, mas de 12 grupos de España y Latinoamerica hacen parte de esta comunidad.
