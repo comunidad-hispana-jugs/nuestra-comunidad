@@ -8,8 +8,9 @@
 
 The Java Users Groups' Hispanic Community was created to share Java and new technologies knowledge between Spanish-speaking JUGs, it started since 2017 after a Hack Day for Java 9, more than 12 JUGs from Spain and Latin America are part of this community. 
 
-The sessions are spreading through HangOuts on air and Youtube, attendees can join each session by going to their local JUG meeting or online through youtube, they can also use a slack channel: comunidad-jugs.slack.com
+The sessions are spreading through Hangouts on air and Youtube, attendees can join each session by going to their local JUG meeting or online through youtube, they can also use a slack channel: comunidad-jugs.slack.com. 
 
+The community joins around 200 members each hack day session through all JUGs. 
 
 These Java Users Groups are part of this community:
 
