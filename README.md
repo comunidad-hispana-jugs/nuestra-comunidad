@@ -8,6 +8,8 @@ La Comunidad Hispana de grupos de usuarios de Java (JUG) fue creada para comparr
 
 Las sesiones son transmitidas vias HangOuts on air y Youtube, quienes desean participar pueden hacerlo yendo a la reunión que organiza el JUG de su ciudad o seguir el evento via YouTube y el canal de Slack: comunidad-jugs.slack.com
 
+Nuestra comunidad une alrededor de 200 miembros en cada sesion de hackday a traves de todos JUGs. 
+
 Los siguientes son los grupos de usuarios de Java que hacen parte de la comunidad
 
 - Barcelona [(@BarcelonaJUG)](https://twitter.com/BarcelonaJUG):
