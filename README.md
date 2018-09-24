@@ -50,7 +50,7 @@ Los siguientes son los grupos de usuarios de Java que hacen parte de la comunida
 
 - Panama
 
--República Dominicana [(@JavaDominicano)](https://twitter.com/javadominicano):  
+- República Dominicana [(@JavaDominicano)](https://twitter.com/javadominicano):  
 
 - Vigo [(@VigoJUG)](https://twitter.com/VigoJUG):
 <img src="images/vigojug.jpg" alt="" width="270" height="251" />
