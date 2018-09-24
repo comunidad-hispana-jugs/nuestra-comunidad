@@ -52,6 +52,8 @@ These Java Users Groups are part of this community:
 
 - Panama
 
+-República Dominicana [(@JavaDominicano)](https://twitter.com/javadominicano)
+
 - Vigo [(@VigoJUG)](https://twitter.com/VigoJUG):
 <img src="images/vigojug.jpg" alt="" width="270" height="251" />
 
