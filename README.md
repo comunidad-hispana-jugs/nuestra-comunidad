@@ -42,6 +42,9 @@ Los siguientes son los grupos de usuarios de Java que hacen parte de la comunida
 - Medellin [(@MedellinJug)](https://twitter.com/MedellinJug):
 <img src="images/medellinjug.jpg" alt="" width="270" height="251" />
 
+- México [(@JavaUp)](https://twitter.com/javaup):
+<img src="images/MexicoJUG.jpg" alt="" width="270" height="251" />
+
 - Nicaragua [(@jug_nicaragua)](https://twitter.com/jug_nicaragua):
 <img src="images/nicaraguajug.jpg" alt="" width="270" height="251" />
 
@@ -56,7 +59,5 @@ Los siguientes son los grupos de usuarios de Java que hacen parte de la comunida
 - Vigo [(@VigoJUG)](https://twitter.com/VigoJUG):
 <img src="images/vigojug.jpg" alt="" width="270" height="251" />
 
-- México [(@JavaUp)](https://twitter.com/javaup):
-<img src="images/MexicoJUG.jpg" alt="" width="270" height="251" />
 
 
