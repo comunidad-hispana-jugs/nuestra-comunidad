@@ -39,9 +39,6 @@ Los siguientes son los grupos de usuarios de Java que hacen parte de la comunida
 - Málaga [(@MalagaJUG)](https://twitter.com/MalagaJUG):
 <img src="images/malagajug.png" alt="" width="250" height="251" />
 
-- México [(@MedellinJug)](https://twitter.com/JavaUP):
-<img src="images/javaupjug.jpg" alt="" width="270" height="251" />
-
 - Medellin [(@MedellinJug)](https://twitter.com/MedellinJug):
 <img src="images/medellinjug.jpg" alt="" width="270" height="251" />
 
