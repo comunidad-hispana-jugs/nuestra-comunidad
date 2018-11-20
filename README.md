@@ -10,6 +10,11 @@ Las sesiones son transmitidas vias HangOuts on air y Youtube, quienes desean par
 
 Nuestra comunidad une alrededor de 200 miembros en cada sesion de hackday a traves de todos JUGs. 
 
+* Canal de slack de la comunidad
+
+https://join.slack.com/t/comunidad-jugs/shared_invite/enQtNDAyNzEzNTUzNTEwLWIyN2I2N2U2NWNjMDkxMWI3Njk1NDJkZTU2NDU1MDBlYWNmNzRhNTRiMWJkZGYxNWU1ZTEzMTQ2NDUyZjVmYWQ
+
+
 Los siguientes son los grupos de usuarios de Java que hacen parte de la comunidad
 
 - Barcelona [(@BarcelonaJUG)](https://twitter.com/BarcelonaJUG):
