@@ -12,6 +12,11 @@ The sessions are spreading through Hangouts on air and Youtube, attendees can jo
 
 The community joins around 200 members each hack day session through all JUGs. 
 
+* Community's slack channel
+
+https://join.slack.com/t/comunidad-jugs/shared_invite/enQtNDAyNzEzNTUzNTEwLWIyN2I2N2U2NWNjMDkxMWI3Njk1NDJkZTU2NDU1MDBlYWNmNzRhNTRiMWJkZGYxNWU1ZTEzMTQ2NDUyZjVmYWQ
+
+
 These Java Users Groups are part of this community:
 
 - Barcelona [(@BarcelonaJUG)](https://twitter.com/BarcelonaJUG):
